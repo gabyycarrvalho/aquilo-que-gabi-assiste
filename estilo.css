@@ -1,0 +1,28 @@
+body {
+    font-family: 'roboto mono', monospace;
+    background-image: url(https://pbs.twimg.com/media/FKovWv2WUAgzjao?format=jpg&name=large);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background--attachment: fixed;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 25px;
+    color: white;
+}
+
+h2 {
+    text-align: left;
+    margin-left: 35px;
+    color: white;
+}
+
+form {
+    margin-left: 35px;
+    color: white;
+}
+
+li {
+    color: white;
+}
